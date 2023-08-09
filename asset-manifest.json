@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Proshikhar/static/css/main.c335bb34.css",
+    "main.js": "/Proshikhar/static/js/main.f01c352d.js",
+    "static/js/787.8f9605cb.chunk.js": "/Proshikhar/static/js/787.8f9605cb.chunk.js",
+    "static/media/Main Logo.png": "/Proshikhar/static/media/Main Logo.2aefc26514e670e90d3e.png",
+    "index.html": "/Proshikhar/index.html",
+    "main.c335bb34.css.map": "/Proshikhar/static/css/main.c335bb34.css.map",
+    "main.f01c352d.js.map": "/Proshikhar/static/js/main.f01c352d.js.map",
+    "787.8f9605cb.chunk.js.map": "/Proshikhar/static/js/787.8f9605cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c335bb34.css",
+    "static/js/main.f01c352d.js"
+  ]
+}
