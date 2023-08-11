@@ -12,3 +12,20 @@
   margin: 0 auto;
   padding: 0 2.5rem;
 }
+h4 {
+  color: #000;
+  font-family: "Be Vietnam Pro";
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.background-color-home {
+  height: fit-content;
+  background: linear-gradient(
+    225deg,
+    rgba(99, 213, 255, 0.2) 0%,
+    rgba(166, 231, 255, 0.2) 0.01%,
+    rgba(153, 176, 255, 0.2) 100%
+  );
+
+  backdrop-filter: blur(325px);
+}
