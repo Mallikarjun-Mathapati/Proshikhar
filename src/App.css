@@ -23,8 +23,8 @@ h4 {
   background: linear-gradient(
     225deg,
     rgba(99, 213, 255, 0.2) 0%,
-    rgba(166, 231, 255, 0.2) 0.01%,
-    rgba(153, 176, 255, 0.2) 100%
+    rgba(155, 227, 254, 0.2) 0.01%,
+    rgba(130, 158, 255, 0.2) 100%
   );
 
   backdrop-filter: blur(325px);
