@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/Proshikhar/static/css/main.c335bb34.css",
-    "main.js": "/Proshikhar/static/js/main.f01c352d.js",
+    "main.css": "/Proshikhar/static/css/main.04f208c5.css",
+    "main.js": "/Proshikhar/static/js/main.0efa4c7e.js",
     "static/js/787.8f9605cb.chunk.js": "/Proshikhar/static/js/787.8f9605cb.chunk.js",
+    "static/media/homeourservicebg.jpg": "/Proshikhar/static/media/homeourservicebg.e7e2284246c6f63455cb.jpg",
+    "static/media/Main Bg.jpg": "/Proshikhar/static/media/Main Bg.3639f4ff68621a8cc491.jpg",
+    "static/media/About me bg.png": "/Proshikhar/static/media/About me bg.867c78a9b55e12def38c.png",
+    "static/media/Side Image.png": "/Proshikhar/static/media/Side Image.60cde4bcbddb2d55c726.png",
+    "static/media/buttonbg.jpg": "/Proshikhar/static/media/buttonbg.e9081106726658046e49.jpg",
+    "static/media/SideImage.png": "/Proshikhar/static/media/SideImage.ddf5756ba1bbaad60170.png",
     "static/media/Main Logo.png": "/Proshikhar/static/media/Main Logo.2aefc26514e670e90d3e.png",
+    "static/media/Quality icon.png": "/Proshikhar/static/media/Quality icon.32f2d75edea50b4c2fb3.png",
+    "static/media/Tailoricon.png": "/Proshikhar/static/media/Tailoricon.4a79f176171b5251a8ac.png",
     "index.html": "/Proshikhar/index.html",
-    "main.c335bb34.css.map": "/Proshikhar/static/css/main.c335bb34.css.map",
-    "main.f01c352d.js.map": "/Proshikhar/static/js/main.f01c352d.js.map",
+    "main.04f208c5.css.map": "/Proshikhar/static/css/main.04f208c5.css.map",
+    "main.0efa4c7e.js.map": "/Proshikhar/static/js/main.0efa4c7e.js.map",
     "787.8f9605cb.chunk.js.map": "/Proshikhar/static/js/787.8f9605cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c335bb34.css",
-    "static/js/main.f01c352d.js"
+    "static/css/main.04f208c5.css",
+    "static/js/main.0efa4c7e.js"
   ]
 }
