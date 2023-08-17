@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proshikhar/static/css/main.1457dd0e.css",
-    "main.js": "/Proshikhar/static/js/main.695ecafd.js",
+    "main.js": "/Proshikhar/static/js/main.d6d5b120.js",
     "static/js/787.8f9605cb.chunk.js": "/Proshikhar/static/js/787.8f9605cb.chunk.js",
     "static/media/homeourservicebg.jpg": "/Proshikhar/static/media/homeourservicebg.e7e2284246c6f63455cb.jpg",
     "static/media/Main Bg.jpg": "/Proshikhar/static/media/Main Bg.3639f4ff68621a8cc491.jpg",
@@ -16,11 +16,11 @@
     "static/media/Tailoricon.png": "/Proshikhar/static/media/Tailoricon.4a79f176171b5251a8ac.png",
     "index.html": "/Proshikhar/index.html",
     "main.1457dd0e.css.map": "/Proshikhar/static/css/main.1457dd0e.css.map",
-    "main.695ecafd.js.map": "/Proshikhar/static/js/main.695ecafd.js.map",
+    "main.d6d5b120.js.map": "/Proshikhar/static/js/main.d6d5b120.js.map",
     "787.8f9605cb.chunk.js.map": "/Proshikhar/static/js/787.8f9605cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1457dd0e.css",
-    "static/js/main.695ecafd.js"
+    "static/js/main.d6d5b120.js"
   ]
 }
