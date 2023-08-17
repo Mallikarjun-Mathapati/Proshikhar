@@ -41,36 +41,52 @@ const ContactHome = () => {
                 </div>
               </div>
             </div>
+
             <div className="contact-home-form">
               <form
-                action="https://formsubmit.co/malluma0007@gmail.com"
-                method="POST"
+                // action="https://formsubmit.co/malluma0007@gmail.com"
+                action="mailto:malluma0007@gmail.com"
+                method="post"
+                encType="text/plain"
               >
                 <div className="contact-home-form-grid">
                   <div className="contact-home-form-grid-1">
-                    <label htmlFor="User Name">Name</label>
-                    <input name="User Name" type="text" required />
+                    <label htmlFor="username">Name</label>
+                    <input
+                      name="username"
+                      type="text"
+                      required
+                      placeholder=" "
+                    />
                   </div>
                   <div className="contact-home-form-grid-1">
-                    <label htmlFor="User Name">Last Name</label>
-                    <input name="Last Name" type="text" required />
+                    <label htmlFor="lastname">Last Name</label>
+                    <input
+                      name="lastname"
+                      type="text"
+                      required
+                      placeholder=" "
+                    />
                   </div>
                   <div className="contact-home-form-grid-1">
-                    <label htmlFor="Phone   Number">Phone Number</label>
-                    <input name="Phone Number" type="tel" />
+                    <label htmlFor="phonenumber">Phone Number</label>
+                    <input name="phonenumber" type="tel" placeholder=" " />
                   </div>
                   <div className="contact-home-form-grid-1">
-                    <label htmlFor="E-Mail">E-mail</label>
-                    <input name="e-mail" type="e-mail" required />
+                    <label htmlFor="email">E-mail</label>
+                    <input
+                      name="e-mail"
+                      type="email"
+                      required
+                      placeholder=" "
+                    />
                   </div>
                 </div>
                 <div className="contact-home-form-grid-1 contact-home-form-grid-2">
-                  <label htmlFor="Message">Message</label>
-                  <textarea name="message" />
+                  <label htmlFor="message">Message</label>
+                  <textarea name="message" placeholder=" " />
                 </div>
-                <button type="submit" form="form1" value="Send">
-                  SUBMIT
-                </button>
+                <button type="submit">SUBMIT</button>
               </form>
             </div>
           </div>
