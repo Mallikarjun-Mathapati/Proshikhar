@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/Proshikhar/static/css/main.1457dd0e.css",
-    "main.js": "/Proshikhar/static/js/main.d6d5b120.js",
+    "main.css": "/Proshikhar/static/css/main.b73756c5.css",
+    "main.js": "/Proshikhar/static/js/main.7595362a.js",
     "static/js/787.8f9605cb.chunk.js": "/Proshikhar/static/js/787.8f9605cb.chunk.js",
     "static/media/homeourservicebg.jpg": "/Proshikhar/static/media/homeourservicebg.e7e2284246c6f63455cb.jpg",
     "static/media/Main Bg.jpg": "/Proshikhar/static/media/Main Bg.3639f4ff68621a8cc491.jpg",
     "static/media/About me bg.png": "/Proshikhar/static/media/About me bg.867c78a9b55e12def38c.png",
     "static/media/Side Image.png": "/Proshikhar/static/media/Side Image.60cde4bcbddb2d55c726.png",
+    "static/media/Royal x img.png": "/Proshikhar/static/media/Royal x img.b75ab5410bf60c26ed22.png",
+    "static/media/Youcanuse.png": "/Proshikhar/static/media/Youcanuse.25c68839d73e831d5753.png",
+    "static/media/Rental cars.png": "/Proshikhar/static/media/Rental cars.b2be0b379bc7227ba5f8.png",
     "static/media/buttonbg.jpg": "/Proshikhar/static/media/buttonbg.e9081106726658046e49.jpg",
     "static/media/Phone Number.png": "/Proshikhar/static/media/Phone Number.f12716afa568ef6c2d90.png",
     "static/media/rotate text 2 1.png": "/Proshikhar/static/media/rotate text 2 1.c9bef0b9a1f3f22e679c.png",
@@ -15,12 +18,12 @@
     "static/media/Quality icon.png": "/Proshikhar/static/media/Quality icon.32f2d75edea50b4c2fb3.png",
     "static/media/Tailoricon.png": "/Proshikhar/static/media/Tailoricon.4a79f176171b5251a8ac.png",
     "index.html": "/Proshikhar/index.html",
-    "main.1457dd0e.css.map": "/Proshikhar/static/css/main.1457dd0e.css.map",
-    "main.d6d5b120.js.map": "/Proshikhar/static/js/main.d6d5b120.js.map",
+    "main.b73756c5.css.map": "/Proshikhar/static/css/main.b73756c5.css.map",
+    "main.7595362a.js.map": "/Proshikhar/static/js/main.7595362a.js.map",
     "787.8f9605cb.chunk.js.map": "/Proshikhar/static/js/787.8f9605cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1457dd0e.css",
-    "static/js/main.d6d5b120.js"
+    "static/css/main.b73756c5.css",
+    "static/js/main.7595362a.js"
   ]
 }
