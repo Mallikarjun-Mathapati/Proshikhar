@@ -250,7 +250,7 @@
   font-size: 0.9375rem;
   font-weight: 500;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1275px) {
   .service1-grid {
     width: auto;
   }
@@ -484,6 +484,11 @@
   font-size: 0.9375rem;
   font-weight: 500;
   width: 50%;
+}
+.container1 {
+  max-width: 122rem;
+  margin: 0 auto;
+  padding: 0 2.5rem;
 }
 .our-service-main-card {
   display: flex;
@@ -1204,5 +1209,136 @@
   .service-benefits-flex-1 {
     display: none;
     height: 0;
+  }
+}
+
+/* PORTFOLIO HOME  */
+
+.portfolio-home {
+  width: 100%;
+  margin: 8rem 0;
+}
+.portfolio-home-heading {
+  flex-direction: column;
+}
+.portfolio-home-heading h5 {
+  color: #000000;
+  font-family: "Be Vietnam Pro";
+  font-size: 1rem;
+  font-weight: 600;
+}
+.portfolio-home-heading h5 span {
+  color: #418bff;
+  -webkit-text-stroke: 1px;
+  padding-right: 0.3rem;
+}
+.portfolio-home-heading h2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Be Vietnam Pro";
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1rem 0;
+  text-align: center;
+  width: 50%;
+}
+.portfolio-home-heading p {
+  text-align: center;
+  width: 50%;
+}
+.portfolio-home-portfolio-grid-main {
+  /* width: 90%; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  background: white;
+  padding: 2.5rem 10%;
+}
+.portfolio-home-portfolio-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  /* background: white; */
+  padding: 2.5rem 0;
+  margin: 2rem 0;
+}
+.portfolio-home-portfolio-grid-main-2 {
+  padding-left: 5rem;
+}
+.portfolio-home-portfolio-grid-main img {
+  width: 36.4375rem;
+  /* width: 120%; */
+}
+.portfolio-home-portfolio-grid-main h3 {
+  color: #000;
+  font-family: "Be Vietnam Pro";
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.royalx h3 span {
+  color: #cf2832;
+}
+.portfolio-home-portfolio-grid-main p {
+  color: #000;
+  font-family: "poppins";
+  font-size: 0.9375rem;
+  font-weight: 400;
+  padding: 2rem 0;
+}
+.portfolio-home-portfolio-grid-main button {
+  all: unset;
+  color: #262626;
+  font-family: "Be Vietnam Pro";
+  font-size: 0.9375rem;
+  font-weight: 500;
+}
+.rental-car {
+  flex-direction: row-reverse;
+}
+.rental-car h3 span {
+  color: #ffcd1c;
+}
+.rental-car .portfolio-home-portfolio-grid-main-2 {
+  padding-right: 5rem;
+  padding-left: 0rem;
+}
+@media (max-width: 1400px) {
+  .portfolio-home-portfolio-grid-main {
+    width: 100%;
+    padding: 2rem 0;
+  }
+}
+@media (max-width: 1200px) {
+  .portfolio-home-portfolio-grid-main-2 {
+    padding-left: 3rem;
+  }
+  .portfolio-home-portfolio-grid-main img {
+    width: 30.4375rem;
+  }
+}
+@media (max-width: 1000px) {
+  .portfolio-home-portfolio-grid-main {
+    flex-direction: column;
+  }
+  .portfolio-home-portfolio-grid-main-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .portfolio-home-portfolio-grid-main-2 {
+    padding-left: 0rem;
+  }
+  .portfolio-home-heading h2 {
+    width: 100%;
+  }
+  .portfolio-home-heading p {
+    width: 100%;
+  }
+}
+@media (max-width: 1000px) {
+  .portfolio-home-portfolio-grid-main img {
+    width: 100%;
   }
 }

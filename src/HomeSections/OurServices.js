@@ -17,7 +17,7 @@ const OurServices = () => {
           <h5>
             {" "}
             <span>
-              <i class="fa-solid fa-circle-notch"></i>
+              <i className="fa-solid fa-circle-notch"></i>
             </span>{" "}
             Our Services
           </h5>
@@ -29,7 +29,7 @@ const OurServices = () => {
             and interaction for your site visitors.
           </p>
         </div>
-        <div className="container">
+        <div className="container1">
           <div className="our-service-main-card">
             <div className="our-service-main-card-grid">
               <div className="our-service-grid-1 our-service-grid-1-shadow-left ">

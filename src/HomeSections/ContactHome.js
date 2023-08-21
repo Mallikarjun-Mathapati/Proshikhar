@@ -10,7 +10,7 @@ const ContactHome = () => {
             <h5>
               {" "}
               <span>
-                <i class="fa-solid fa-circle-notch"></i>
+                <i className="fa-solid fa-circle-notch"></i>
               </span>{" "}
               CONTACT US
             </h5>

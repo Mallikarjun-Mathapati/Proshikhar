@@ -16,7 +16,7 @@ const AboutUsHome = () => {
                 <div className="about-us-home-flex-content">
                   <p>
                     <span>
-                      <i class="fa-solid fa-circle-notch"></i>
+                      <i className="fa-solid fa-circle-notch"></i>
                     </span>{" "}
                     About Us
                   </p>

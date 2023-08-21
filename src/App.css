@@ -6,11 +6,13 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Be Vietnam Pro", sans-serif;
+  /* overflow-x: hidden; */
 }
 .container {
   max-width: 122rem;
   margin: 0 auto;
   padding: 0 2.5rem;
+  overflow-x: hidden;
 }
 h4 {
   color: #000;
@@ -28,4 +30,15 @@ h4 {
   );
 
   backdrop-filter: blur(325px);
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-des {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

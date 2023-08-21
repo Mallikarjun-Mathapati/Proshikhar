@@ -6,6 +6,7 @@ import OurServices from "../HomeSections/OurServices";
 import Whychoose from "../HomeSections/Whychoose";
 import ContactHome from "../HomeSections/ContactHome";
 import ServiceBenefits from "../HomeSections/ServiceBenefits";
+import PortfolioHome from "../HomeSections/PortfolioHome";
 
 const Home = () => {
   return (
@@ -16,8 +17,9 @@ const Home = () => {
           <Service1 />
           <AboutUsHome />
           <OurServices />
-          <Whychoose />
           <ServiceBenefits />
+          <PortfolioHome />
+          <Whychoose />
           <ContactHome />
         </div>
       </div>

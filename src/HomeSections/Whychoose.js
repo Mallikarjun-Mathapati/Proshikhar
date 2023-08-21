@@ -59,7 +59,7 @@ const Whychoose = () => {
                 <h5>
                   {" "}
                   <span>
-                    <i class="fa-solid fa-circle-notch"></i>
+                    <i className="fa-solid fa-circle-notch"></i>
                   </span>{" "}
                   Why Choose Us?
                 </h5>
